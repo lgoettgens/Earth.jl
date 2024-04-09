@@ -4,7 +4,6 @@ authors = ["kshedden <kshedden@umich.edu>"]
 version = "0.2.0"
 
 [deps]
-Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
 CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Lasso = "b4fcebef-c861-5a0f-a7e2-ba9dc32b180a"
@@ -17,7 +16,6 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 [compat]
 StatsAPI = "1.7.0"
 julia = "1.9"
-Aqua = "0.8.4"
 CategoricalArrays = "0.10.8"
 DataFrames = "1.6.1"
 Lasso = "0.7.1"
